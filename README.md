@@ -1,4 +1,4 @@
-![Programmer, Student]
+
 <h1 align="center">Hi 👋, I'm Aononto Jahan Junnurain</h1>
 <h3 align="center">A passionate programming learner from Bangladesh</h3>
 
