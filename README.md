@@ -1,4 +1,4 @@
-![Programmer, Student](https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-6/309267731_1175389646347564_144135783660339040_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeHD6uG_lgzqHSogj7YfzMGXPIHa587EALQ8gdrnzsQAtK022fRMSNY36VzBjr0HbYl0quyZ6wD3eAUBMJeV2w4H&_nc_ohc=gapQ_1e7SlUAX9Y9K-q&tn=aog3VGQRR0D-Kt-m&_nc_ht=scontent.fdac7-1.fna&oh=00_AT90MWJGVUoKPLP1wy6H8t41_Q38y2ElKzVRx8R6RrqQQA&oe=6351E3BC)
+![Programmer, Student]
 <h1 align="center">Hi 👋, I'm Aononto Jahan Junnurain</h1>
 <h3 align="center">A passionate programming learner from Bangladesh</h3>
 
