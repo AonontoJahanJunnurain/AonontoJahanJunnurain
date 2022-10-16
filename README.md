@@ -1,22 +1,31 @@
 ![Programmer, Student](https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-6/309267731_1175389646347564_144135783660339040_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeHD6uG_lgzqHSogj7YfzMGXPIHa587EALQ8gdrnzsQAtK022fRMSNY36VzBjr0HbYl0quyZ6wD3eAUBMJeV2w4H&_nc_ohc=gapQ_1e7SlUAX9Y9K-q&tn=aog3VGQRR0D-Kt-m&_nc_ht=scontent.fdac7-1.fna&oh=00_AT90MWJGVUoKPLP1wy6H8t41_Q38y2ElKzVRx8R6RrqQQA&oe=6351E3BC)
-## Hi there 👋, This is Aononto Jahan Junnurain
-#### Programmer, Student
-I'm so much energetic about learning new topics.
+<h1 align="center">Hi 👋, I'm Aononto Jahan Junnurain</h1>
+<h3 align="center">A passionate programming learner from Bangladesh</h3>
 
-Skills: REACT / JS / HTML / CSS / C / C++
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aonontojahanjunnurain&label=Profile%20views&color=0e75b6&style=flat" alt="aonontojahanjunnurain" /> </p>
 
-- 🔭 I’m currently working on Study 
-- 🌱 I’m currently learning Java 
-- 👯 I’m looking to collaborate on Software Company 
-- 🤔 I’m looking for help with JavaScript 
-- 💬 Ask me about C & C++ 
-- 📫 How to reach me: 21103030@iubat.edu 
-- ⚡ Fun fact: Singing, Playing, Riding 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aonontojahanjunnurain" alt="aonontojahanjunnurain" /></a> </p>
 
+- 🔭 I’m currently working on **Formal Study**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/AonontoJahanJunnurain)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/aononto-jahan-junnurain-56433624b//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/spike.man.39501)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/its_junnu_rain//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCQ-Y2alk3wb0y4C_XeFndSA)  
+- 🌱 I’m currently learning **JAVA**
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+- 👯 I’m looking to collaborate on **Software Company**
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/AonontoJahanJunnurain)  
+- 💬 Ask me about **C & C++**
 
+- 📫 How to reach me **21103030@iubat.edu**
+
+- ⚡ Fun fact **Joking, Singing, Playing**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/aononto jahan junnurain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aononto jahan junnurain" height="30" width="40" /></a>
+<a href="https://instagram.com/its_junnu_rain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_junnu_rain" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/junnurain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="junnurain" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aonontojahanjunnurain&show_icons=true&locale=en&layout=compact" alt="aonontojahanjunnurain" /></p>
